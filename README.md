@@ -63,11 +63,6 @@ I am a multi-disciplinary engineer sitting at the intersection of **Application 
 
 ---
 
-### 🏆 Certifications & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-harness&theme=radical&no-frame=false&column=4" width="100%" />
-</p>
-
 ---
 
 ### 🤝 Connect & Inquire
