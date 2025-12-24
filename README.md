@@ -10,7 +10,7 @@
 
 ---
 
-### 🛡️ Professional Persona
+### 🛡️ Short Summary of Me
 I am a multi-disciplinary engineer sitting at the intersection of **Application Development**, **System Security**, and **Network Infrastructure**. I don't just build applications; I ensure they are hardened against threats and optimized for high-availability networking environments.
 
 - 🔍 **Security:** Specialized in Web Application Pentesting (OWASP Top 10) and Vulnerability Assessment.
