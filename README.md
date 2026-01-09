@@ -50,12 +50,6 @@ I am a multi-disciplinary engineer sitting at the intersection of **Application 
 ---
 
 ### 📊 Engineering Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-harness&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-harness&layout=compact&theme=radical&border_radius=10" width="45%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=code-harness&theme=radical&border_radius=10" width="100%" />
