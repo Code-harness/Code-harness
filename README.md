@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=280&section=header&text=Code%20Harnessor&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Pentester%20%7C%20Network%20Engineer&descSize=20&descAlignY=55" width="100%" />
 
   <p align="center">
-    <a href="https://mikportfolio.netlify.app/"><b>Portfolio</b></a> •
+    <a href="https://manzikevin.vercel.app/"><b>Portfolio</b></a> •
     <a href="mailto:codeharness1@gmail.com"><b>Contact</b></a> •
     <a href="https://linkedin.com/in/code-harness"><b>LinkedIn</b></a>
   </p>
