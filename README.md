@@ -51,9 +51,9 @@ I am a multi-disciplinary engineer sitting at the intersection of **Application 
 
 ### 📊 Engineering Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=code-harness&theme=radical&border_radius=10" width="100%" />
-</div>
+</div> -->
 
 ---
 
