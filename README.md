@@ -94,6 +94,5 @@ I am always open to discussing new projects, security audits, or full-stack oppo
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-harness&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-harness&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-harness&show_icons=true&theme=radical" width="98%" />
 </p>
